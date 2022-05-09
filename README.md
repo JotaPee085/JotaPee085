@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi, i'm Jp 👋
 
-<!--
-**JotaPee085/JotaPee085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F542331980117604677%2F&psig=AOvVaw3Awqn0NhliRPZUQF5eG_7n&ust=1652188031018000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCf9Z6-0vcCFQAAAAAdAAAAABAD">
