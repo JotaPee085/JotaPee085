@@ -11,7 +11,7 @@ Experience:
 
 
 
-I'm learning:
+ I'm learning:
 
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" />  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
@@ -22,3 +22,18 @@ IDE's:
 <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
 
+<div align="center" style="display: inline_block"><br>
+  🦖grraurrr! d i n o s s a u r o 🦕<br>
+<img align="center" src="https://i0.wp.com/gizmodo.uol.com.br/wp-content/blogs.dir/8/files/2018/09/dino-chrome.gif?resize=480%2C152&ssl=1"/>
+  <div/>
+  <br>
+  <div align="center">
+<p>Números de visitas:<p/>
+<p>
+    <img src="https://profile-counter.glitch.me/jotapee085/count.svg"/>
+</p>
+  <div align="center">
+  <a href="https://github.com/jotapee085">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jotapee085&show_icons=true&theme=rgb&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jotapee085&layout=compact&langs_count=7&theme=rgb"/>
+</div>
