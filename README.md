@@ -1,14 +1,17 @@
-### Hi, i'm Jp 👋
+### Hi, i'm Jp 
+
+Experience: 
+Js 
+java 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+
+I'm learning: 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
 
+IDE's:
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-[imagem](https://www.google.com/url?sa=i&url=https%3A%2F%2Faminoapps.com%2Fc%2Fmemes-hu3-br%2Fpage%2Fitem%2Fse-fosse-de-minecraft-com-rtx-todo-mundo-ia-dar-co%2FQjvX_L4cYIlGJgWKGx6WR8kp8V21Qj0qwv&psig=AOvVaw2q5X6LyqAL36nE3QYQV0Ju&ust=1652189078210000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOikp5TC0vcCFQAAAAAdAAAAABAJ)
