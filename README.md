@@ -2,8 +2,9 @@
 
 📗I'm studying web development for front-end, but I'm looking to learn game development focused on gamer designer.
 
-📘Attending: Vocational high school - completion in 2022.
-
+📘Computer Technician
+  Studying Systems Analysis and Development
+             
 
 Experience: 
 
