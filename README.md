@@ -2,9 +2,8 @@
 
 📗I'm studying web development for front-end, but I'm looking to learn game development focused on gamer designer.
 
-📘Computer Technician
-
-  Studying Systems Analysis and Development
+📘 Computer Technician
+📘 Studying Systems Analysis and Development
              
 
 Experience: 
